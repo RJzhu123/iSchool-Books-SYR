@@ -17,7 +17,7 @@
 - [600M004-[android.开发书籍].Hello.Android.3rd.Edition](http://pv4sr2c9j.bkt.clouddn.com/600M004-%5Bandroid.%E5%BC%80%E5%8F%91%E4%B9%A6%E7%B1%8D%5D.Hello.Android.3rd.Edition.pdf)
 
 ### 613-Library Planning, Marketing, and Assessment
-- [[Patricia_H._Fisher,_Marseille_M._Pride,_Ellen_G.](http://pv4sr2c9j.bkt.clouddn.com/%5BPatricia_H._Fisher,_Marseille_M._Pride,_Ellen_G._%28BookFi.org%29.pdf)
+- [Patricia_H._Fisher,_Marseille_M._Pride,_Ellen_G.](http://pv4sr2c9j.bkt.clouddn.com/%5BPatricia_H._Fisher,_Marseille_M._Pride,_Ellen_G._%28BookFi.org%29.pdf)
 - [[Rhea_Joyce_Rubin]_Demonstrating_Results_Using_Ou](http://pv4sr2c9j.bkt.clouddn.com/%5BRhea_Joyce_Rubin%5D_Demonstrating_Results_Using_Ou%28BookFi.org%29.pdf)
 
 ### 614-Management Principle
