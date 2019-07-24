@@ -59,6 +59,7 @@
 - [659-Morden Database Management 12th Edition](http://pv4sr2c9j.bkt.clouddn.com/modern-database-management.pdf)
 - [Modern Database Management  11th Edition](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Database%20Management%20%2011th%20Edition....pdf)
 - [659-SQL Pocket Guide 3rd Edition](http://pv4sr2c9j.bkt.clouddn.com/659-SQL%20Pocket%20Guide%203rd%20Edition.pdf)
+- [Database Systems Design, Implementation & Management, 13th-Carlos Coronel(2018)](http://pv4sr2c9j.bkt.clouddn.com/Database%20Systems%20Design,%20Implementation%20&%20Management,%2013th-Carlos%20Coronel%282018%29.pdf)
 
 ### 664-Natural Language Processing _ Python
 - [Python学习手册](http://pv4sr2c9j.bkt.clouddn.com/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf)
