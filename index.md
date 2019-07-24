@@ -56,6 +56,7 @@
 - [Modern Systems Analysis and Design (7th Edition)](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Systems%20Analysis%20and%20Design%20%287th%20Edition%29.pdf)
 
 ### 659-Database Management
+- [Modern Database Management (12th Edition)-Global Edition](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Database%20Management%20%2812th%20Edition%29@www.java1234.com.pdf)
 - [659-Morden Database Management 12th Edition](http://pv4sr2c9j.bkt.clouddn.com/modern-database-management.pdf)
 - [Modern Database Management  11th Edition](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Database%20Management%20%2011th%20Edition....pdf)
 - [659-SQL Pocket Guide 3rd Edition](http://pv4sr2c9j.bkt.clouddn.com/659-SQL%20Pocket%20Guide%203rd%20Edition.pdf)
