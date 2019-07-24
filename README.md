@@ -1,6 +1,6 @@
 # iSchool-Books-SYR
 ## Welcome to study knowledge！
-
+<right><a href="http://pv4sr2c9j.bkt.clouddn.com/IM_Books-20190724T052121Z-001.zip">打包下载</a></right>
 ### 553-Information Architecture
 - [IAWWW](http://pv4sr2c9j.bkt.clouddn.com/IAWWW.pdf)
 - [steve-krug-dont-make-me-think-second-edition](http://pv4sr2c9j.bkt.clouddn.com/steve-krug-dont-make-me-think-second-edition.pdf)
@@ -18,7 +18,7 @@
 - [600M004-[android.开发书籍].Hello.Android.3rd.Edition](http://pv4sr2c9j.bkt.clouddn.com/600M004-%5Bandroid.%E5%BC%80%E5%8F%91%E4%B9%A6%E7%B1%8D%5D.Hello.Android.3rd.Edition.pdf)
 
 ### 613-Library Planning, Marketing, and Assessment
-- [[Patricia_H._Fisher,_Marseille_M._Pride,_Ellen_G.](http://pv4sr2c9j.bkt.clouddn.com/%5BPatricia_H._Fisher,_Marseille_M._Pride,_Ellen_G._%28BookFi.org%29.pdf)
+- [BLUEPRINT for Your A Guide to Help You Survive and Thrive LIBRARYMARKETING PLAN](http://pv4sr2c9j.bkt.clouddn.com/%5BPatricia_H._Fisher,_Marseille_M._Pride,_Ellen_G._%28BookFi.org%29.pdf)
 - [[Rhea_Joyce_Rubin]_Demonstrating_Results_Using_Ou](http://pv4sr2c9j.bkt.clouddn.com/%5BRhea_Joyce_Rubin%5D_Demonstrating_Results_Using_Ou%28BookFi.org%29.pdf)
 
 ### 614-Management Principle
@@ -57,9 +57,10 @@
 - [Modern Systems Analysis and Design (7th Edition)](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Systems%20Analysis%20and%20Design%20%287th%20Edition%29.pdf)
 
 ### 659-Database Management
-- [659-Morden Database Management](http://pv4sr2c9j.bkt.clouddn.com/659-Morden%20Database%20Management.pdf)
+- [659-Morden Database Management 12th Edition](http://pv4sr2c9j.bkt.clouddn.com/modern-database-management.pdf)
 - [Modern Database Management  11th Edition](http://pv4sr2c9j.bkt.clouddn.com/Modern%20Database%20Management%20%2011th%20Edition....pdf)
 - [659-SQL Pocket Guide 3rd Edition](http://pv4sr2c9j.bkt.clouddn.com/659-SQL%20Pocket%20Guide%203rd%20Edition.pdf)
+- [Database Systems Design, Implementation & Management, 13th-Carlos Coronel(2018)](http://pv4sr2c9j.bkt.clouddn.com/Database%20Systems%20Design,%20Implementation%20&%20Management,%2013th-Carlos%20Coronel%282018%29.pdf)
 
 ### 664-Natural Language Processing _ Python
 - [Python学习手册](http://pv4sr2c9j.bkt.clouddn.com/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf)
