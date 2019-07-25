@@ -66,6 +66,7 @@
 - [Python学习手册](http://pv4sr2c9j.bkt.clouddn.com/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf)
 - [简明Python教程](http://pv4sr2c9j.bkt.clouddn.com/%E7%AE%80%E6%98%8EPython%E6%95%99%E7%A8%8B.pdf)
 - [使用Python进行自然语言处理](http://pv4sr2c9j.bkt.clouddn.com/%5B%E4%BD%BF%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%5D.%28Natural.Language.Processing.with.Python%29.S.Bird_E.Klein_E.Loper.%E6%96%87%E5%AD%97%E7%89%88%5BED2000.COM%5D.pdf)
+- [Natural Language Processing with Python](http://www.nltk.org/book/) [Chinese](https://www.osgeo.cn/nltk/)
 
 ### 687-Introduction to data science
 - [introDataScienceV4](http://pv4sr2c9j.bkt.clouddn.com/introDataScienceV4e%20%281%29.pdf)
